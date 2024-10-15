@@ -1,0 +1,15 @@
+{
+  "name": "video-streaming-backend",
+  "version": "1.0.0",
+  "description": "A backend project for video streaming application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "Backend"
+  ],
+  "author": "Athar",
+  "license": "ISC"
+}
